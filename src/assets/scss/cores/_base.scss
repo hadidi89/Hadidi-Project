@@ -14,9 +14,13 @@ a {
     }
 }
 
-
-
 .border {
     border: 1px solid $color-theme !important;
 }
 
+
+@media (min-width: 1600px) {
+    .container {
+        max-width: $max-width;
+    }
+}
