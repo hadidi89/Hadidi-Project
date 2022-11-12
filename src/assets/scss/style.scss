@@ -6,12 +6,20 @@
 @import "./cores/colors";
 @import "./cores/base";
 @import "./cores/buttons";
+@import "./cores/card";
 
 // sections
 @import "./sections/MainMenuSection";
+@import "./sections/ShowCase";
+@import "./sections/UnderShowCase";
 @import "./sections/ProductGridSection";
+@import "./sections/TopPicks";
+@import "./sections/CategoryRightSection";
+@import "./sections/CompanyServiceSection";
 @import "./sections/FooterSection";
 @import "./sections/BreadcrumbSection";
 @import "./sections/MapSection";
 @import "./sections/ContactFormSection";
+@import "./sections/ShoppingCart";
+
 
